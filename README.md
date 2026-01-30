@@ -11,8 +11,7 @@ produce short-term forecasts using classical time-series methods.
 ### Tools
 Programming language: Python
 Tools: Jupyter Notebook
-Libraries:
-Pandas
+Libraries: Pandas
 Matplotlib
 Statsmodels.Seasonal Decompose
 Statsmodels.SARIMAX
