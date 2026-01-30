@@ -26,6 +26,6 @@ Electricity production exhibits strong seasonality whose magnitude scales
 with the level of production, making multiplicative decomposition and
 seasonal models appropriate.
 ### References
-- Data Source file: Time series analysis - predicting the consumption of electricity in the coming future (click here for link)
-- Time Series Analysis in Python (click here for link) 
+- Data Source file: Time series analysis - predicting the consumption of electricity in the coming future ([click here for link](https://www.kaggle.com/datasets/kandij/electric-production))
+- Time Series Analysis in Python ([click here for link](https://www.youtube.com/watch?v=fxx_E0ojKrc)) 
 
