@@ -1,4 +1,4 @@
-## Electricity Demand Forecasting using Time Series
+### Electricity Demand Forecasting using Time Series.
 Today, electricity use is a major concern for many countries. Electricity demand forecasting helps predict how much electricity will be needed in the future. This is important for companies to know when and where peak usage will happen and to manage risks.
 
 As the world becomes more digital, electricity demand keeps growing. Companies need to analyze their electricity use and forecast future demand to plan better.
