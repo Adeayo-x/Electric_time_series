@@ -8,7 +8,7 @@ This project analyzes electricity production as a univariate time series.
 The goal is to understand its structure (trend and seasonality) and
 produce short-term forecasts using classical time-series methods.
 
-### Tools
+### Tools.
 - Programming language: Python
 - Tools: Jupyter Notebook
 - Libraries: Pandas
